@@ -35,7 +35,7 @@ Este es un proyecto web interactivo que permite organizar un sorteo de **Amigo S
 
 1. Clona este repositorio:
    
-   git clone 
+   git clone https://github.com/Elhache07/challenge-amigo-secreto.git
 Abre el archivo index.html en tu navegador.
 
 Ingresa los nombres de los participantes.

@@ -46,6 +46,8 @@ Haz clic en “Sortear amigo” y obtendrás las parejas de forma aleatoria.
 
 Este proyecto puede ser usado para reuniones familiares, fiestas de oficina o cualquier evento social.
 
+Autor Manuel — [Elhache07]
+
 📄 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
